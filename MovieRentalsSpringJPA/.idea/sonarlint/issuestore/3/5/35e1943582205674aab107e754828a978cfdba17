@@ -1,0 +1,27 @@
+
+Q
+java:S1874";Remove this use of "RmiProxyFactoryBean"; it is deprecated.(¼üÃ‚
+Q
+java:S1874";Remove this use of "RmiProxyFactoryBean"; it is deprecated.(¢š÷‡
+Q
+java:S1874";Remove this use of "RmiProxyFactoryBean"; it is deprecated.(¢š÷‡
+V
+java:S1874$";Remove this use of "RmiProxyFactoryBean"; it is deprecated.(ŒÄÿ‡ÿÿÿÿÿ
+V
+java:S1874%";Remove this use of "RmiProxyFactoryBean"; it is deprecated.(ß×œœşÿÿÿÿ
+V
+java:S1874%";Remove this use of "RmiProxyFactoryBean"; it is deprecated.(ß×œœşÿÿÿÿ
+V
+java:S1874,";Remove this use of "RmiProxyFactoryBean"; it is deprecated.(şôºÎûÿÿÿÿ
+V
+java:S1874-";Remove this use of "RmiProxyFactoryBean"; it is deprecated.(£­‰òùÿÿÿÿ
+V
+java:S1874-";Remove this use of "RmiProxyFactoryBean"; it is deprecated.(£­‰òùÿÿÿÿ
+p
+java:S1128"ZRemove this unused import 'org.example.movierentalsjpa.client.service.CClientServiceImpl'.(ÄÙš
+t
+java:S1128"YRemove this unused import 'org.example.movierentalsjpa.client.service.CMovieServiceImpl'.(€Ç— şÿÿÿÿ
+u
+java:S1128"ZRemove this unused import 'org.example.movierentalsjpa.client.service.CRentalServiceImpl'.(ñ³ãûÿÿÿÿ
+e
+java:S1128"JRemove this unused import 'org.example.movierentalsjpa.client.ui.Console'.(˜À¼éüÿÿÿÿ

@@ -1,0 +1,30 @@
+
+Z
+java:S1710"?Remove the 'PropertySources' wrapper from this annotation group(«ş“õüÿÿÿÿ
+P
+java:S1874":Remove this use of "RmiServiceExporter"; it is deprecated.(ü«‰
+]
+java:S6830"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü«‰
+E	java:S106"+Replace this use of System.out by a logger.(İ—Ãèÿÿÿÿÿ
+U
+java:S1874":Remove this use of "RmiServiceExporter"; it is deprecated.(êà›Óûÿÿÿÿ
+U
+java:S1874":Remove this use of "RmiServiceExporter"; it is deprecated.(êà›Óûÿÿÿÿ
+P
+java:S1874'":Remove this use of "RmiServiceExporter"; it is deprecated.(¨é™Â
+]
+java:S6830'"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨é™Â
+E	java:S106("+Replace this use of System.out by a logger.(Ö‹ø»ıÿÿÿÿ
+U
+java:S1874)":Remove this use of "RmiServiceExporter"; it is deprecated.(êà›Óûÿÿÿÿ
+U
+java:S1874)":Remove this use of "RmiServiceExporter"; it is deprecated.(êà›Óûÿÿÿÿ
+U
+java:S18741":Remove this use of "RmiServiceExporter"; it is deprecated.(Ñ‘•©úÿÿÿÿ
+b
+java:S68301"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ‘•©úÿÿÿÿ
+@	java:S1062"+Replace this use of System.out by a logger.(óŸ¶¾
+U
+java:S18743":Remove this use of "RmiServiceExporter"; it is deprecated.(êà›Óûÿÿÿÿ
+U
+java:S18743":Remove this use of "RmiServiceExporter"; it is deprecated.(êà›Óûÿÿÿÿ

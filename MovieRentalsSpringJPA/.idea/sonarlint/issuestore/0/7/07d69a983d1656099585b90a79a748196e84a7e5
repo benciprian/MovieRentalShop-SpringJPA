@@ -1,0 +1,10 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8¸ðá­Ó1
+]	java:S125V"<This block of commented-out lines of code should be removed.(èýÔ§þÿÿÿÿ8°ÖÉÙÓ1
+g
+java:S1128"KRemove this unused import 'org.example.movierentalsjpa.common.model.Movie'.(ï‰¤-8¦öÊÙÓ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¦öÊÙÓ1
+]
+java:S1128";Remove this unused import 'java.util.stream.StreamSupport'.(ö°€ÿÿÿÿÿ8¦öÊÙÓ1

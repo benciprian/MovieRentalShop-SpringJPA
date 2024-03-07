@@ -1,0 +1,202 @@
+
+w
+java:S11925"UDefine a constant instead of duplicating this literal "Unsupported command." 4 times.(¿•ú¦ûÿÿÿÿ8­ùŒ®Ó1
+r
+java:S1192I"UDefine a constant instead of duplicating this literal "
+Enter your option: " 4 times.(û±¤±8®ùŒ®Ó1
+–
+java:S1192D"tDefine a constant instead of duplicating this literal "===================================================" 8 times.(åşÚ®ÿÿÿÿÿ8®ùŒ®Ó1
+j
+java:S1192\"HDefine a constant instead of duplicating this literal "0. Back" 3 times.(‰ØÈ´ÿÿÿÿÿ8®ùŒ®Ó1
+X
+java:S1141¸"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÕÓ¡ÙÓ1
+X
+java:S1141ó"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÕÓ¡ÙÓ1
+X
+java:S1141š"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÖÓ¡ÙÓ1
+X
+java:S1141é"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÖÓ¡ÙÓ1
+{
+java:S1488Â"^Immediately return this expression instead of assigning it to the temporary variable "client".(ŞŸÛ8ÖÓ¡ÙÓ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ôûŒ®Ó1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8öûŒ®Ó1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8öûŒ®Ó1
+b
+java:S18548"@Remove this useless assignment to local variable "invalidInput".(µÀÉŠüÿÿÿÿ8üûŒ®Ó1
+L	java:S1065"+Replace this use of System.err by a logger.(¿•ú¦ûÿÿÿÿ8ÿûŒ®Ó1
+S
+java:S14818"1Remove this unused "invalidInput" local variable.(µÀÉŠüÿÿÿÿ8€üŒ®Ó1
+L	java:S1069"+Replace this use of System.err by a logger.(²‘øáşÿÿÿÿ8€üŒ®Ó1
+L	java:S106B"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8€üŒ®Ó1
+G	java:S106C"+Replace this use of System.out by a logger.(Š’ğ8€üŒ®Ó1
+L	java:S106D"+Replace this use of System.out by a logger.(åşÚ®ÿÿÿÿÿ8€üŒ®Ó1
+L	java:S106E"+Replace this use of System.out by a logger.(©ú™øÿÿÿÿ8€üŒ®Ó1
+L	java:S106F"+Replace this use of System.out by a logger.(­ëŸÿÿÿÿÿ8üŒ®Ó1
+L	java:S106G"+Replace this use of System.out by a logger.(–öâÖøÿÿÿÿ8üŒ®Ó1
+L	java:S106H"+Replace this use of System.out by a logger.(ïÚâÀşÿÿÿÿ8üŒ®Ó1
+G	java:S106I"+Replace this use of System.out by a logger.(û±¤±8üŒ®Ó1
+c
+java:S1854€"@Remove this useless assignment to local variable "invalidInput".(µÀÉŠüÿÿÿÿ8ÇÚ¡ÙÓ1
+L	java:S106Q"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8üŒ®Ó1
+G	java:S106R"+Replace this use of System.out by a logger.(Ø‘Õü8üŒ®Ó1
+L	java:S106S"+Replace this use of System.out by a logger.(åşÚ®ÿÿÿÿÿ8‚üŒ®Ó1
+F	java:S106T"+Replace this use of System.out by a logger.( £ãD8‚üŒ®Ó1
+L	java:S106U"+Replace this use of System.out by a logger.(šÛ×¿ÿÿÿÿÿ8‚üŒ®Ó1
+L	java:S106V"+Replace this use of System.out by a logger.(ÿÓ²Éùÿÿÿÿ8‚üŒ®Ó1
+L	java:S106W"+Replace this use of System.out by a logger.(·ŠåÑúÿÿÿÿ8‚üŒ®Ó1
+L	java:S106X"+Replace this use of System.out by a logger.(ä‹îåıÿÿÿÿ8‚üŒ®Ó1
+G	java:S106Y"+Replace this use of System.out by a logger.(ğøÎª8‚üŒ®Ó1
+L	java:S106Z"+Replace this use of System.out by a logger.(¥‡£îùÿÿÿÿ8‚üŒ®Ó1
+G	java:S106["+Replace this use of System.out by a logger.(ö€ÄÑ8‚üŒ®Ó1
+L	java:S106\"+Replace this use of System.out by a logger.(‰ØÈ´ÿÿÿÿÿ8‚üŒ®Ó1
+G	java:S106]"+Replace this use of System.out by a logger.(û±¤±8ƒüŒ®Ó1
+L	java:S106}"+Replace this use of System.err by a logger.(¿•ú¦ûÿÿÿÿ8ÎÚ¡ÙÓ1
+T
+java:S1481€"1Remove this unused "invalidInput" local variable.(µÀÉŠüÿÿÿÿ8ÎÚ¡ÙÓ1
+M	java:S106"+Replace this use of System.err by a logger.(ÕÖÿşÿÿÿÿ8ÎÚ¡ÙÓ1
+M	java:S106ˆ"+Replace this use of System.out by a logger.(Æ±Õ©ùÿÿÿÿ8ÒÚ¡ÙÓ1
+M	java:S106Š"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÒÚ¡ÙÓ1
+H	java:S106"+Replace this use of System.out by a logger.(¸Ş‚»8ÒÚ¡ÙÓ1
+M	java:S106’"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÒÚ¡ÙÓ1
+M	java:S106š"+Replace this use of System.out by a logger.(ö¶šÎüÿÿÿÿ8ÒÚ¡ÙÓ1
+M	java:S106 "+Replace this use of System.out by a logger.(õ‰’èüÿÿÿÿ8ÖÚ¡ÙÓ1
+M	java:S106¡"+Replace this use of System.out by a logger.(åşÚ®ÿÿÿÿÿ8ÖÚ¡ÙÓ1
+M	java:S106¢"+Replace this use of System.out by a logger.(ºÑÛúşÿÿÿÿ8ÖÚ¡ÙÓ1
+H	java:S106¤"+Replace this use of System.err by a logger.(‡¥ëÅ8ÖÚ¡ÙÓ1
+M	java:S106§"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ÖÚ¡ÙÓ1
+H	java:S106¯"+Replace this use of System.out by a logger.(ïâÔ¬8ÖÚ¡ÙÓ1
+M	java:S106¼"+Replace this use of System.out by a logger.(¶ç·Êüÿÿÿÿ8ÛÚ¡ÙÓ1
+M	java:S106¿"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ÛÚ¡ÙÓ1
+M	java:S106Ã"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ÛÚ¡ÙÓ1
+M	java:S106Ë"+Replace this use of System.out by a logger.(í°âºşÿÿÿÿ8ÛÚ¡ÙÓ1
+M	java:S106Ô"+Replace this use of System.out by a logger.(æ·ı’úÿÿÿÿ8ŞÚ¡ÙÓ1
+M	java:S106Ö"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ŞÚ¡ÙÓ1
+M	java:S106Ş"+Replace this use of System.out by a logger.(í°âºşÿÿÿÿ8ŞÚ¡ÙÓ1
+H	java:S106ç"+Replace this use of System.out by a logger.( Åâ³8ŞÚ¡ÙÓ1
+M	java:S106é"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ŞÚ¡ÙÓ1
+H	java:S106õ"+Replace this use of System.out by a logger.(ßíæş8âÚ¡ÙÓ1
+M	java:S106÷"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8âÚ¡ÙÓ1
+H	java:S106ú"+Replace this use of System.err by a logger.(ßıé8âÚ¡ÙÓ1
+u
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‰«•ˆÿÿÿÿÿ8âÚ¡ÙÓ1
+M	java:S106‰"+Replace this use of System.out by a logger.(¸½±¦ûÿÿÿÿ8êÚ¡ÙÓ1
+M	java:S106‘"+Replace this use of System.out by a logger.( „äùÿÿÿÿ8êÚ¡ÙÓ1
+M	java:S106–"+Replace this use of System.err by a logger.(òÿ­Šúÿÿÿÿ8êÚ¡ÙÓ1
+M	java:S106"+Replace this use of System.out by a logger.(½ËÖƒûÿÿÿÿ8êÚ¡ÙÓ1
+H	java:S106¢"+Replace this use of System.err by a logger.(÷²šÊ8îÚ¡ÙÓ1
+H	java:S106©"+Replace this use of System.out by a logger.(›·¸–8îÚ¡ÙÓ1
+H	java:S106®"+Replace this use of System.err by a logger.(åÏÒà8îÚ¡ÙÓ1
+H	java:S106¶"+Replace this use of System.out by a logger.(‚Šûñ8îÚ¡ÙÓ1
+H	java:S106»"+Replace this use of System.err by a logger.(¦•ÚÚ8îÚ¡ÙÓ1
+M	java:S106Â"+Replace this use of System.out by a logger.(“¹şûÿÿÿÿ8îÚ¡ÙÓ1
+M	java:S106È"+Replace this use of System.err by a logger.(ÔÖİüÿÿÿÿ8òÚ¡ÙÓ1
+M	java:S106Ô"+Replace this use of System.out by a logger.(ÂùØ ûÿÿÿÿ8òÚ¡ÙÓ1
+M	java:S106Ö"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8òÚ¡ÙÓ1
+c
+java:S1854ƒ"@Remove this useless assignment to local variable "invalidInput".(µÀÉŠüÿÿÿÿ8öÚ¡ÙÓ1
+M	java:S106Ü"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8÷Ú¡ÙÓ1
+H	java:S106İ"+Replace this use of System.out by a logger.(íƒÕá8÷Ú¡ÙÓ1
+M	java:S106Ş"+Replace this use of System.out by a logger.(åşÚ®ÿÿÿÿÿ8÷Ú¡ÙÓ1
+M	java:S106ß"+Replace this use of System.out by a logger.(åíé’ûÿÿÿÿ8÷Ú¡ÙÓ1
+G	java:S106à"+Replace this use of System.out by a logger.(ÆêÅ8÷Ú¡ÙÓ1
+M	java:S106á"+Replace this use of System.out by a logger.(ú„Ø©ÿÿÿÿÿ8÷Ú¡ÙÓ1
+M	java:S106â"+Replace this use of System.out by a logger.(Ûéá°üÿÿÿÿ8÷Ú¡ÙÓ1
+M	java:S106ã"+Replace this use of System.out by a logger.(ãßîÍşÿÿÿÿ8÷Ú¡ÙÓ1
+M	java:S106ä"+Replace this use of System.out by a logger.(Ï’ùÿÿÿÿ8÷Ú¡ÙÓ1
+M	java:S106å"+Replace this use of System.out by a logger.(‰ØÈ´ÿÿÿÿÿ8÷Ú¡ÙÓ1
+H	java:S106æ"+Replace this use of System.out by a logger.(û±¤±8úÚ¡ÙÓ1
+M	java:S106€"+Replace this use of System.err by a logger.(¿•ú¦ûÿÿÿÿ8úÚ¡ÙÓ1
+T
+java:S1481ƒ"1Remove this unused "invalidInput" local variable.(µÀÉŠüÿÿÿÿ8úÚ¡ÙÓ1
+M	java:S106„"+Replace this use of System.err by a logger.(İÆ«ãÿÿÿÿÿ8úÚ¡ÙÓ1
+M	java:S106"+Replace this use of System.out by a logger.(ıÔ¬…øÿÿÿÿ8úÚ¡ÙÓ1
+M	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8úÚ¡ÙÓ1
+H	java:S106œ"+Replace this use of System.out by a logger.(Šå¡Ä8ÿÚ¡ÙÓ1
+M	java:S106"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ÿÚ¡ÙÓ1
+M	java:S106¡"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ÿÚ¡ÙÓ1
+H	java:S106¯"+Replace this use of System.out by a logger.(ÍòÕ8ÿÚ¡ÙÓ1
+M	java:S106³"+Replace this use of System.out by a logger.(ñ¢Ñùûÿÿÿÿ8ÿÚ¡ÙÓ1
+H	java:S106·"+Replace this use of System.out by a logger.(¬“­›8ƒÛ¡ÙÓ1
+M	java:S106»"+Replace this use of System.out by a logger.(¿²İÿøÿÿÿÿ8ƒÛ¡ÙÓ1
+M	java:S106¿"+Replace this use of System.out by a logger.(ì€æıÿÿÿÿ8ƒÛ¡ÙÓ1
+H	java:S106Ì"+Replace this use of System.out by a logger.(÷™Í©8ƒÛ¡ÙÓ1
+M	java:S106Õ"+Replace this use of System.out by a logger.(½µÈÕùÿÿÿÿ8ƒÛ¡ÙÓ1
+M	java:S106Ø"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ƒÛ¡ÙÓ1
+M	java:S106à"+Replace this use of System.out by a logger.(ğûîøÿÿÿÿ8‡Û¡ÙÓ1
+H	java:S106í"+Replace this use of System.out by a logger.(ïŒ³Ì8‡Û¡ÙÓ1
+M	java:S106ğ"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8‡Û¡ÙÓ1
+M	java:S106ô"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8‡Û¡ÙÓ1
+H	java:S106ü"+Replace this use of System.out by a logger.(Ó«¢8‡Û¡ÙÓ1
+H	java:S106…"+Replace this use of System.out by a logger.(Š÷‘³8‹Û¡ÙÓ1
+M	java:S106‡"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8‹Û¡ÙÓ1
+M	java:S106"+Replace this use of System.out by a logger.(ö¶šÎüÿÿÿÿ8‹Û¡ÙÓ1
+H	java:S106•"+Replace this use of System.out by a logger.(Íœ¾´8‹Û¡ÙÓ1
+M	java:S106–"+Replace this use of System.out by a logger.(åşÚ®ÿÿÿÿÿ8‹Û¡ÙÓ1
+M	java:S106—"+Replace this use of System.out by a logger.(®ÂŒÉÿÿÿÿÿ8Û¡ÙÓ1
+H	java:S106™"+Replace this use of System.err by a logger.(§¦š«8Û¡ÙÓ1
+M	java:S106œ"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8Û¡ÙÓ1
+c
+java:S1854Ù"@Remove this useless assignment to local variable "invalidInput".(µÀÉŠüÿÿÿÿ8Û¡ÙÓ1
+M	java:S106¦"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Û¡ÙÓ1
+H	java:S106§"+Replace this use of System.out by a logger.(ëˆ“ˆ8Û¡ÙÓ1
+M	java:S106¨"+Replace this use of System.out by a logger.(åşÚ®ÿÿÿÿÿ8Û¡ÙÓ1
+M	java:S106©"+Replace this use of System.out by a logger.(ô³ÀÈÿÿÿÿÿ8Û¡ÙÓ1
+H	java:S106ª"+Replace this use of System.out by a logger.(ÀÄ¤ü8Û¡ÙÓ1
+M	java:S106«"+Replace this use of System.out by a logger.(çÈíüÿÿÿÿ8Û¡ÙÓ1
+M	java:S106¬"+Replace this use of System.out by a logger.(Ãıåòüÿÿÿÿ8“Û¡ÙÓ1
+H	java:S106­"+Replace this use of System.out by a logger.(€Æ…¬8“Û¡ÙÓ1
+M	java:S106®"+Replace this use of System.out by a logger.(İ¯Ğªÿÿÿÿÿ8“Û¡ÙÓ1
+M	java:S106¯"+Replace this use of System.out by a logger.(ÃÀã½ûÿÿÿÿ8“Û¡ÙÓ1
+M	java:S106°"+Replace this use of System.out by a logger.(¾ş¹¢şÿÿÿÿ8“Û¡ÙÓ1
+H	java:S106±"+Replace this use of System.out by a logger.(ªŸ¶“8“Û¡ÙÓ1
+M	java:S106²"+Replace this use of System.out by a logger.(‰ØÈ´ÿÿÿÿÿ8“Û¡ÙÓ1
+H	java:S106³"+Replace this use of System.out by a logger.(û±¤±8“Û¡ÙÓ1
+M	java:S106Ö"+Replace this use of System.err by a logger.(¿•ú¦ûÿÿÿÿ8—Û¡ÙÓ1
+T
+java:S1481Ù"1Remove this unused "invalidInput" local variable.(µÀÉŠüÿÿÿÿ8—Û¡ÙÓ1
+M	java:S106Ú"+Replace this use of System.err by a logger.(İÆ«ãÿÿÿÿÿ8—Û¡ÙÓ1
+H	java:S106å"+Replace this use of System.out by a logger.(¬œÖº8—Û¡ÙÓ1
+M	java:S106ï"+Replace this use of System.out by a logger.(¶ç·Êüÿÿÿÿ8›Û¡ÙÓ1
+M	java:S106ó"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8›Û¡ÙÓ1
+H	java:S106ş"+Replace this use of System.out by a logger.(òÔ¯è8›Û¡ÙÓ1
+M	java:S106ƒ"+Replace this use of System.err by a logger.(²†Ê”øÿÿÿÿ8›Û¡ÙÓ1
+M	java:S106ˆ"+Replace this use of System.out by a logger.(æ·ı’úÿÿÿÿ8›Û¡ÙÓ1
+M	java:S106Š"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ŸÛ¡ÙÓ1
+H	java:S106“"+Replace this use of System.out by a logger.(í””İ8ŸÛ¡ÙÓ1
+M	java:S106•"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ŸÛ¡ÙÓ1
+M	java:S106"+Replace this use of System.out by a logger.(ç†ÆÑùÿÿÿÿ8ŸÛ¡ÙÓ1
+M	java:S106¦"+Replace this use of System.out by a logger.(ó—¥âùÿÿÿÿ8ŸÛ¡ÙÓ1
+M	java:S106¨"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ŸÛ¡ÙÓ1
+H	java:S106³"+Replace this use of System.out by a logger.(ßíæş8£Û¡ÙÓ1
+M	java:S106µ"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8£Û¡ÙÓ1
+M	java:S106Å"+Replace this use of System.out by a logger.(ÃÖ•­ùÿÿÿÿ8£Û¡ÙÓ1
+H	java:S106Ê"+Replace this use of System.err by a logger.(²´Æ8§Û¡ÙÓ1
+M	java:S106Ì"+Replace this use of System.err by a logger.(ŞÈÁŒÿÿÿÿÿ8§Û¡ÙÓ1
+M	java:S106Ô"+Replace this use of System.out by a logger.(ªğ–ÿÿÿÿÿ8§Û¡ÙÓ1
+H	java:S106Ù"+Replace this use of System.err by a logger.(²´Æ8§Û¡ÙÓ1
+H	java:S106Û"+Replace this use of System.err by a logger.(á­Œ¬8§Û¡ÙÓ1
+H	java:S106í"+Replace this use of System.out by a logger.(¢¿¹£8«Û¡ÙÓ1
+M	java:S106ï"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8«Û¡ÙÓ1
+M	java:S106õ"+Replace this use of System.out by a logger.(î‚ˆÛüÿÿÿÿ8«Û¡ÙÓ1
+M	java:S106÷"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8«Û¡ÙÓ1
+H	java:S106ş"+Replace this use of System.out by a logger.(ïâÔ¬8«Û¡ÙÓ1
+H	java:S106†"+Replace this use of System.out by a logger.(¿Ä—ú8¯Û¡ÙÓ1
+M	java:S106‡"+Replace this use of System.out by a logger.(åşÚ®ÿÿÿÿÿ8¯Û¡ÙÓ1
+H	java:S106ˆ"+Replace this use of System.out by a logger.(äÎı 8¯Û¡ÙÓ1
+H	java:S106‰"+Replace this use of System.out by a logger.(Ë©Šæ8¯Û¡ÙÓ1
+M	java:S106Š"+Replace this use of System.out by a logger.(Ç¼³…şÿÿÿÿ8¯Û¡ÙÓ1
+M	java:S106‹"+Replace this use of System.out by a logger.(Ï£Ëîşÿÿÿÿ8¯Û¡ÙÓ1
+H	java:S106Œ"+Replace this use of System.out by a logger.(Ù€åÑ8¯Û¡ÙÓ1
+M	java:S106"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8¯Û¡ÙÓ1
+G	java:S106•"+Replace this use of System.out by a logger.(‰Âõj8³Û¡ÙÓ1
+M	java:S106œ"+Replace this use of System.out by a logger.(¶´Ò øÿÿÿÿ8³Û¡ÙÓ1
+M	java:S106"+Replace this use of System.out by a logger.(åşÚ®ÿÿÿÿÿ8³Û¡ÙÓ1
+M	java:S106"+Replace this use of System.out by a logger.(§çÃ±úÿÿÿÿ8³Û¡ÙÓ1
+M	java:S106Ÿ"+Replace this use of System.out by a logger.(²¾ûúÿÿÿÿ8³Û¡ÙÓ1
+M	java:S106 "+Replace this use of System.out by a logger.(îÆ›ğüÿÿÿÿ8³Û¡ÙÓ1
+M	java:S106¡"+Replace this use of System.out by a logger.(µš³¹şÿÿÿÿ8³Û¡ÙÓ1
+H	java:S106¢"+Replace this use of System.out by a logger.(ßÚ¡ú8³Û¡ÙÓ1
+M	java:S106¤"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8³Û¡ÙÓ1

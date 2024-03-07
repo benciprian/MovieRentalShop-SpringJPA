@@ -1,0 +1,11 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8–óñ­Ó1
+t
+java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(—Ğİúÿÿÿÿ8³«ÕÔ1
+u
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(å‚Û–øÿÿÿÿ8—³«ÕÔ1
+_
+java:S1128"BRemove this unused import 'org.apache.commons.logging.LogFactory'.(Ç„Í8…Ôô­Ó1
+p
+java:S1128"TRemove this unused import 'org.springframework.dao.DataIntegrityViolationException'.(ÅÔº(8…Ôô­Ó1
